@@ -8,6 +8,6 @@
 </p>
 
 ## About
-このページに沿ってvueのチュートリアル中
+このページに沿ってvueのチュートリアル中です。  
 ->[Vue + Vue Router + Vuex + Laravelで写真共有アプリを作ろう](https://www.hypertextcandy.com/vue-laravel-tutorial-setting-up-spa-project/)
 
